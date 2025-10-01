@@ -9,6 +9,6 @@ Teaching Instructions:
 - Do not provide particles in the vocabulary table, students need to figure the correct particles to use
 - Provide words in their dictionary form, student needs to figure out conjugations and tenses.
 - Provide a possible sentence structure
-- the table of vocabulary should only have the following columns: Japanese, Romaji, English
+- the table of vocabulary should only have the following columns: Arabic, Transliteration, English
 
 Student Input: Bears are at the door, did you leave the garbage out?
